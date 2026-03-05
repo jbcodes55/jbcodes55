@@ -5,7 +5,7 @@ I'm passionate about cloud computing, software engineering and cybersecurity and
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/jbcodes55/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/jbcodes55/Vulnerability-Management-Project/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jbcodes55/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
